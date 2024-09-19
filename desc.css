@@ -1,3 +1,7 @@
+*
+{
+     font-family: "Times New Roman", Times, serif;
+}
 .bground
 {
     height: 550px;
@@ -8,7 +12,6 @@ p
     text-align: center;
     color: white;
     padding: 150px;
-    font-family: "Times New Roman", Times, serif;
     font-style: italic;
     font-size: 22px;
     line-height: 30px;
